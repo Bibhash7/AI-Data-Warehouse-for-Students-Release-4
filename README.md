@@ -22,7 +22,7 @@ It is in interactive desktop based application, created using Python and Postgre
 
 ## Release 2 features:
    
-   1. Text to Speech login: Takes command from microphone, if matched with credential, login successful.
+   1. **Text to Speech login**: Takes command from microphone, if matched with credential, login successful.
    2. Modular approach:     All operations kept in seperate files.
    3. Little UI enhancement: Shows red for unsuccessful login, green for successful login
    
