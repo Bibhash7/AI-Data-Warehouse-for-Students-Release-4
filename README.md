@@ -2,7 +2,7 @@
 
 ## Release 4 features
 
-  1. Incremental Load: Now, data is stored from source to target table by performing incremental load.
+  1. **Incremental Load**: Now, data is stored from source to target table by performing incremental load.
   2. UI enhancement: Display output as a beautiful table structure.
 
 # AI-Data-Warehouse-for-Students-Release-3
