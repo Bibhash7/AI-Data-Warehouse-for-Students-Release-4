@@ -1,13 +1,11 @@
 # AI-Data-Warehouse-for-Students-Release-4
 
+It is in interactive desktop based application, created using Python and PostgreSQL, OpenCV and Tesseract for text extraction, Speech_recognition for voice login.
+
 ## Release 4 features
 
   1. **Incremental Load**: Now, data is stored from source to target table by performing incremental load.
   2. UI enhancement: Display output table in a beautiful table structure.
-
-# AI-Data-Warehouse-for-Students-Release-3
-
-It is in interactive desktop based application, created using Python and PostgreSQL, OpenCV and Tesseract for text extraction, Speech_recognition for voice login.
 
 ## Release 3 features:
    
